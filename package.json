@@ -1,7 +1,7 @@
 {
   "name": "san-hooks",
-  "version": "1.0.0",
-  "description": "Common hooks which require commonly.",
+  "version": "1.0.1",
+  "description": "Custom hooks which you can use.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,9 @@
   "peerDependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/nachiketnkulkarni/NPM-pachages/issues"
+  },
+  "homepage": "https://github.com/nachiketnkulkarni/NPM-pachages#readme"
 }
